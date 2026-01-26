@@ -4,13 +4,14 @@ img{
     height: auto;
 }
 
+
+
 #Titlu{
     text-align: center;
 }
 
 h2{
     font-size: 30px;
-    text-align: center;
 }
 
 #Introducere{
@@ -19,18 +20,11 @@ h2{
     max-width: 1000px;
 }
 
-.Left{
+.Sectiune{
     margin-left: 250px;
     margin-right: 250px;
     margin-top: 50px;
     border: 3px solid black;
-    padding: 2%;
-}
-
-.Right{
-    margin-left: 250px;
-    margin-right: 250px;
-    margin-top: 50px;
-    border: 3px solid black;
-    padding: 2%;
+    padding: 0,5%;
+    text-align: center;
 }
